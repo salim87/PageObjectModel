@@ -1,0 +1,7 @@
+org\BrowserStackTest\BrowserStackSignupPageFactory.class
+org\BrowserStackTest\BrowserStackTestClassesFactory.class
+org\BrowserStackTest\BrowserStackHomePageFactory.class
+org\BrowserStackTest\BrowserStackSignupPage.class
+org\BrowserStackTest\HomePage.class
+org\BrowserStackTest\BrowserStackTestClasses.class
+org\BrowserStackTest\BrowserStackHomePage.class
